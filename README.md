@@ -3,3 +3,4 @@ The final project for the class of Machine Learning Approaches in Structural Mec
 
 ![Example Image](ExaminingTheEffectofNumberofLayers/4Layers/generated/generated_plot_epoch_151.png)
 
+*Note that the input data is not shared, the directory is just intended to represent the created models and share results.*
